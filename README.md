@@ -1,2 +1,12 @@
-# software-testing
-Study project about Software Testing and Quality Assurance
+testingFPlus
+============
+
+1. Group 57 :
+----------------------------
+
+- Trịnh Văn Tú
+ 
+- Hà Anh Tuấn
+
+2. Kết quả bài làm:
+-------------
